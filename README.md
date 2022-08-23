@@ -5,7 +5,8 @@ Here is a compilation of interesting projects in this area
 
 | Project | Stars | Last Commit | Comment |
 | ------------- | ------------- | ------------- | ------------- |
-| [atlassian - openapi-diff](https://bitbucket.org/atlassian/openapi-diff) | Bitbucket | 2022-07-09 | The best choice from my point of view |
+| [OpenAPITools - openapi-diff](https://github.com/OpenAPITools/openapi-diff) | 454 | 2022-07-25 | The best choice from my point of view |
+| [atlassian - openapi-diff](https://bitbucket.org/atlassian/openapi-diff) | not available | 2022-07-09 | Also a good choice |
 | [Sayi - swagger-diff](https://github.com/Sayi/swagger-diff) | 220 | 2020-06-29 | It looks like the project will no longer be maintained |
 | [civisanalytics- swagger-diff](https://github.com/civisanalytics/swagger-diff) | 223 | 2018-03-08 | It looks like the project will no longer be maintained |
 | [zallek - swagger-diff](https://github.com/zallek/swagger-diff) | 56 | 2017-01-03 | It looks like the project will no longer be maintained |
